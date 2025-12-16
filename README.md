@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aayushraj3.4.2004@gmail.com**
 
-- ⚡ Fun fact **I am Looser 💻**
+- ⚡ Fun fact **I am curious 💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
