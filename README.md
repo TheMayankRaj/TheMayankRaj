@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://in.pinterest.com/pin/993325261571259842/" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Banner" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mayank Raj</h1>
