@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheMayankRaj/TheMayankRaj/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/TheMayankRaj/TheMayankRaj/main/banner.png" width="50%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Mayank Raj</h1>
