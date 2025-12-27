@@ -6,7 +6,7 @@
 <h3 align="center">Aspiring AI professional | B.Sc. Artificial Intelligence & Data Science</h3>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="70%" height="60%" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="20%" height="60%" />
 </div>
 
 <div align="center">
