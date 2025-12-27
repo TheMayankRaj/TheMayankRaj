@@ -1,7 +1,7 @@
 <!-- 🔥 Futuristic GitHub Profile README — Customizable Template -->
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/67/44/99/67449996bfaf590bab5dd6539a644fb1.jpg" alt="My Image" width="3000" >
+  <img src="https://i.pinimg.com/736x/8a/66/d3/8a66d3a2ffa072329b4e8b67ce97bc80.jpg" alt="My Image" width="3000" >
 
   ### 🚀 Hey, I’m **Mayank Raj**  
   **AI Explorer • Developer • Creator**
