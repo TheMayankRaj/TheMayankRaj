@@ -1,5 +1,9 @@
 
 
+<p align="center">
+  <img src="/mnt/data/Gemini_Generated_Image_1hj5d51hj5d51hj5.png" alt="GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mayank Raj</h1>
 <h3 align="center">Aspiring AI professional | B.Sc. Artificial Intelligence & Data Science</h3>
 
