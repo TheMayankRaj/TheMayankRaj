@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="/mnt/data/Gemini_Generated_Image_1hj5d51hj5d51hj5.png" alt="GitHub Banner" width="100%" />
+  <img src="/Users/aayushraj/Downloads/Gemini_Generated_Image_1hj5d51hj5d51hj5.png" width="50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mayank Raj</h1>
