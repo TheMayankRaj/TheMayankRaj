@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="file:///Users/aayushraj/Downloads/Gemini_Generated_Image_1hj5d51hj5d51hj5.png" width="50%" />
+  <img src="file:///Users/aayushraj/Downloads/Gemini_Generated_Image_1hj5d51hj5d51hj5.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mayank Raj</h1>
