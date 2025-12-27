@@ -1,7 +1,7 @@
 <!-- 🔥 Futuristic GitHub Profile README — Customizable Template -->
 
 <div align="center">
-  <img src="/Users/aayushraj/Downloads/Gemini_Generated_Image_1hj5d51hj5d51hj5.png" width="100%"/>
+  <img src="/Users/aayushraj/Downloads/Gemini_Generated_Image_1hj5d51hj5d51hj5.png" alt="My Image" width="300">
 
   ### 🚀 Hey, I’m **Mayank Raj**  
   **AI Explorer • Developer • Creator**
