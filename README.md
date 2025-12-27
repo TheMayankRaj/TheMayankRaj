@@ -104,7 +104,7 @@
 ### 🧩 Thanks for stopping by!
 ⭐ If something here inspired you — drop a star, let's build cool things together.
 
-</div>>
+</div>
 
 
 
