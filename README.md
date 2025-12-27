@@ -1,49 +1,53 @@
-
-
-<p align="center">
-  <img src="file:///Users/aayushraj/Downloads/Gemini_Generated_Image_1hj5d51hj5d51hj5.png" width="100%" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheMayankRaj/TheMayankRaj/main/banner.png" width="100%" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Mayank Raj</h1>
 <h3 align="center">Aspiring AI professional | B.Sc. Artificial Intelligence & Data Science</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Banner" width="80%" />
-</p>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="80%" />
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=themayankraj&label=Profile%20views&color=0e75b6&style=flat" alt="themayankraj" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=themayankraj&label=Profile%20views&color=0e75b6&style=flat" />
+</div>
 
-<p align="left">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=themayankraj" alt="themayankraj">
+    <img src="https://github-profile-trophy.vercel.app/?username=themayankraj" />
   </a>
-</p>
+</div>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
-- 💬 Ask me about **Artificial Intelligence, Python, Machine Learning, Video Editing, Creative Ideas**
-- 📫 How to reach me **aayushraj3.4.2004@gmail.com**
-- ⚡ Fun fact **I am curious 💻**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayank raj" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/mayankraj2004" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/iyushofff" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/iyushofff" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
-</p>
+🌱 I’m currently learning **Artificial Intelligence**  
+💬 Ask me about **AI, Python, Machine Learning, Video Editing, Creative Ideas**  
+📫 Reach me at **aayushraj3.4.2004@gmail.com**  
+⚡ Fun fact — **I’m endlessly curious 💻**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+</div>
+
+<h3 align="center">Connect with me</h3>
+
+<div align="center">
+<a href="https://linkedin.com/in/mayank raj">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/mayankraj2004">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/iyushofff">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/c/iyushofff">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+</a>
+</div>
+
+<h3 align="center">Languages & Tools</h3>
+
+<div align="center">
 <a href="https://www.microsoft.com/en-us/sql-server">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
 </a>
@@ -56,11 +60,11 @@
 <a href="https://www.python.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
-</p>
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themayankraj&show_icons=true&locale=en&layout=compact" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=themayankraj&show_icons=true&locale=en&layout=compact" />
+</div>
 
 
 
