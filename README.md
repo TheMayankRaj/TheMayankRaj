@@ -21,8 +21,8 @@
 
 <div align="center">
 
-🌱 I’m currently learning **Artificial Intelligence**  
-💬 Ask me about **AI, Python, Machine Learning, Video Editing, Creative Ideas**  
+🌱 I’m currently learning **Artificial Intelligence & code to change the world**  
+💬 Ask me about **AI, Python, Machine Learning,SQL,HTML,CSS, Video Editing, Creative Ideas**  
 📫 Reach me at **aayushraj3.4.2004@gmail.com**  
 ⚡ Fun fact — **I’m endlessly curious 💻**
 
